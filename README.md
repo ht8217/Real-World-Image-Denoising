@@ -57,5 +57,3 @@ To train the model, follow these steps:
 <img src="Results/Qualitative_res.png" width="500"/>
 
 ---
-
-Let us know if you encounter any issues or need help setting up the environment!
