@@ -55,5 +55,7 @@ To train the model, follow these steps:
 ## 🖼️ Qualitative Results
 
 <img src="Results/Qualitative_res.png" width="500"/>
+<img src="Results/Qualitative_res2.png" width="400"/>
+
 
 ---
